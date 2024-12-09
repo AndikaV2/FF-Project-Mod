@@ -1,6 +1,6 @@
 # FF Project Injector
 
-FF Project Injector is a powerful tool designed to enhance your gaming experience in Free Fire with the following features:
+FF Project Injector is a powerful tool designed to enhance your gaming experience with the following features:
 
 - **ESP Full**: A feature that allows you to see enemies, loot, and other important objects through walls or obstacles.
 - **Aimbot**: Automatically aims at your enemies, ensuring accurate shots and a better chance of winning.
